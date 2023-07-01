@@ -7,5 +7,4 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Language_And_Framework&badges=JavaScript,React,Redux,StyCo)](https://github.com/kijepark)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database&badges=MongoDB)](https://github.com/kijepark)
 
