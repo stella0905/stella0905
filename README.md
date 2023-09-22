@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Language_And_Framework</h2>
+<h2 align="left">Language</h2>
 
 ###
 
@@ -26,6 +26,10 @@
 
 ###
 
+<h2 align="left">Library_And_Framework</h2>
+
+###
+
 <div align="left">
       <img src="https://img.shields.io/badge/React-5DC1DA?style=for-the-badge&logo=React&logoColor=white" alt="React">
   <img width="12" />
@@ -34,6 +38,8 @@
       <img src="https://img.shields.io/badge/recoil-5D4EFF?style=for-the-badge&logo=Recoil&logoColor=white" alt="Recoil">
   <img width="12" />
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components">
+       <img width="12" />
+    <img src="https://img.shields.io/badge/Redux-7347B6?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
 </div>
 
 ###
