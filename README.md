@@ -1,16 +1,16 @@
-<h2 align="left">About me</h2>
+<h2 >About me</h2>
 
 ###
 
-<h4 align="left">Hi, My name is Uri, Choi 👋</h4>
+<h4 >Hi, My name is Uri, Choi 👋</h4>
 
 ###
 
-<p align="left">저는 함께 나아가는거를 추구하는 개발자 최유리입니다.  <br>협업과 지식 공유를 중요시하며, 동료들과 함께 성장하고 발전하기 위해 노력합니다.</p>
+<p >저는 함께 나아가는거를 추구하는 개발자 최유리입니다.  <br>협업과 지식 공유를 중요시하며, 동료들과 함께 성장하고 발전하기 위해 노력합니다.</p>
 
 ###
 
-<h2 align="left">Language</h2>
+<h2 >Language</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Library_And_Framework</h2>
+<h2 >Library_And_Framework</h2>
 
 ###
 
