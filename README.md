@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div>
       <img src="https://img.shields.io/badge/React-5DC1DA?style=for-the-badge&logo=React&logoColor=white" alt="React">
   <img width="12" />
       <img src="https://img.shields.io/badge/tanstack--query-FF4759?style=for-the-badge&logo=react-query&logoColor=white" alt="Tanstack-Query">
