@@ -33,6 +33,8 @@
 <div>
       <img src="https://img.shields.io/badge/React-5DC1DA?style=for-the-badge&logo=React&logoColor=white" alt="React">
   <img width="12" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
+  <img width="12" />
       <img src="https://img.shields.io/badge/tanstack--query-FF4759?style=for-the-badge&logo=react-query&logoColor=white" alt="Tanstack-Query">
   <img width="12" />
       <img src="https://img.shields.io/badge/recoil-5D4EFF?style=for-the-badge&logo=Recoil&logoColor=white" alt="Recoil">
